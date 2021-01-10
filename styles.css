@@ -1,8 +1,19 @@
 h1 {
     color: white;
-    text-align: center
 }
 
 body {
-    background-color: red
+    background-color: black
+}
+
+h1 {
+    text-align: center
+}
+
+div#image {
+    text-align: center
+}
+
+div#arrow {
+    text-align: center
 }
