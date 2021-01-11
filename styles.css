@@ -1,9 +1,6 @@
-h1 {
-    color: white;
-}
 
-body {
-    background-color: black
+div#top {
+    background-color: orange
 }
 
 h1 {
@@ -16,4 +13,22 @@ div#image {
 
 div#arrow {
     text-align: center
+}
+
+.navbar {
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+}
+
+.navbar {
+    font-family: "Varela Round";
+}
+
+h1 {
+    font-family: "Oswald";
+}
+
+h4 {
+    font-family: "Varela Round";
 }
