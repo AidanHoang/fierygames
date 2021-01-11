@@ -29,8 +29,12 @@ div#arrow {
     font-family: "Varela Round";
 }
 
-h1 {
-    font-family: "Oswald";
+h1#about {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2#aboutgames {
+    font-family: 'Roboto', sans-serif;
 }
 
 h4 {
@@ -49,4 +53,8 @@ h4 {
     position: absolute;
     left: 50px;
     top: 50px;
+}
+
+div#started {
+    font-family: "Varela Round";
 }
