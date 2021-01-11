@@ -32,3 +32,17 @@ h1 {
 h4 {
     font-family: "Varela Round";
 }
+
+#mania {
+    background-image: "parkour"
+}
+
+#container {
+    position:relative;
+}
+
+#img2 {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
