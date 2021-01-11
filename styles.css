@@ -1,6 +1,10 @@
 
 div#top {
-    background-color: orange
+    background-color: white
+}
+
+body {
+    background-color: #ffffff
 }
 
 h1 {
