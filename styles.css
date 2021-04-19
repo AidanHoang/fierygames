@@ -42,7 +42,7 @@ h5#credits {
 }
 
 h4 {
-    font-family: "Varela Round";
+    font-family: 'Roboto', sans-serif;
 }
 
 #mania {
@@ -60,7 +60,7 @@ h4 {
 }
 
 div#started {
-    font-family: "Varela Round";
+    font-family: 'Roboto', sans-serif;
 }
 
 h5#credits {
@@ -68,5 +68,5 @@ h5#credits {
 }
 
 h1#contacttitle {
-    font-family: "Varela Round";
+    font-family: 'Roboto', sans-serif;
 }
