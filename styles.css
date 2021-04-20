@@ -1,15 +1,15 @@
 
 div#top {
-    background-color: #150941
+    background-color: #83e1f1
 }
 
 body {
-    background-color: #1c0c57
+    background-color: #83e1f1
 }
 
 h1 {
     text-align: center
-            color: #391fa0;  
+            color: #ffffff;  
 }
 
 div#image {
@@ -32,22 +32,22 @@ div#arrow {
 
 h1#about {
     font-family: 'Roboto', sans-serif;
-    color: #391fa0;
+    color: #ffffff;
 }
 
 h2#aboutgames {
     font-family: 'Roboto', sans-serif;
-    color: #391fa0;
+    color: #ffffff;
 }
 
 h5#credits {
     font-family: 'Roboto', sans-serif;
-    color: #391fa0;
+    color: #ffffff;
 }
 
 h4 {
     font-family: 'Roboto', sans-serif;
-    color: #391fa0;
+    color: #ffffff;
 }
 
 #mania {
@@ -66,7 +66,7 @@ h4 {
 
 div#started {
     font-family: 'Roboto', sans-serif;
-    color: #391fa0;
+    color: #ffffff;
 }
 
 h5#credits {
@@ -75,9 +75,3 @@ h5#credits {
 
 h1#contacttitle {
     font-family: 'Roboto', sans-serif;
-    color: #1c0c57;
-}
-
-div#backround {
-    background-image="backround"
-}
