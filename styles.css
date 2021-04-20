@@ -1,10 +1,10 @@
 
 div#top {
-    background-color: #321b8a
+    background-color: #150941
 }
 
 body {
-    background-color: #2a1775
+    background-color: #1c0c57
 }
 
 h1 {
@@ -76,5 +76,5 @@ h5#credits {
 
 h1#contacttitle {
     font-family: 'Roboto', sans-serif;
-    color: #391fa0;
+    color: #1c0c57;
 }
