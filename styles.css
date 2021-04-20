@@ -9,6 +9,8 @@ body {
 
 h1 {
     text-align: center
+        color: #FF3399;
+          
 }
 
 div#image {
@@ -31,18 +33,22 @@ div#arrow {
 
 h1#about {
     font-family: 'Roboto', sans-serif;
+    color: #FF3399;
 }
 
 h2#aboutgames {
     font-family: 'Roboto', sans-serif;
+    color: #FF3399;
 }
 
 h5#credits {
     font-family: 'Roboto', sans-serif;
+    color: #FF3399;
 }
 
 h4 {
     font-family: 'Roboto', sans-serif;
+    color: #FF3399;
 }
 
 #mania {
@@ -61,6 +67,7 @@ h4 {
 
 div#started {
     font-family: 'Roboto', sans-serif;
+    color: #FF3399;
 }
 
 h5#credits {
@@ -69,4 +76,5 @@ h5#credits {
 
 h1#contacttitle {
     font-family: 'Roboto', sans-serif;
+    color: #FF3399;
 }
